@@ -2,7 +2,7 @@ version: '2'
 # Named volumes
 volumes:
   # MySQL Data
-  pdh-data-data:
+  blog-data-data:
     driver: local
 services:
   # MySQL (5.7)
